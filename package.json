@@ -1,7 +1,7 @@
 {
   "name": "ember-select2-hurry",
   "version": "0.0.0",
-  "description": "The default blueprint for ember-cli addons.",
+  "description": "A quick and dirty select2 component for EmberJS ",
   "directories": {
     "doc": "doc",
     "test": "tests"
@@ -36,7 +36,8 @@
     "ember-addon"
   ],
   "dependencies": {
-    "ember-cli-babel": "^4.0.0"
+    "ember-cli-babel": "^4.0.0",
+    "ember-cli-htmlbars": "^0.7.4"
   },
   "ember-addon": {
     "configPath": "tests/dummy/config"
