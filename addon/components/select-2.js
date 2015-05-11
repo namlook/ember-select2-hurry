@@ -63,6 +63,7 @@ export default Ember.Select.extend({
         return {
             placeholder: this.get('placeholder'),
             // width: '100%',
+            width: 'auto',
             ajax: this.get('ajaxConfig')
         };
     }.property('placeholder', 'ajax'),

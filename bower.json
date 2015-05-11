@@ -12,6 +12,6 @@
     "ember-qunit": "0.3.0",
     "ember-qunit-notifications": "0.0.7",
     "qunit": "~1.17.1",
-    "select2": "4.0.0-rc.2"
+    "select2": "4.0.0"
   }
 }

@@ -8,6 +8,6 @@ module.exports = {
   },
 
   afterInstall: function() {
-    return this.addBowerPackageToProject('select2#4.0.0-rc.2');
+    return this.addBowerPackageToProject('select2#4.0.0');
   }
 };
