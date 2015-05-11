@@ -1,6 +1,6 @@
 {
   "name": "ember-select2-hurry",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A quick and dirty select2 component for EmberJS",
   "directories": {
     "doc": "doc",
