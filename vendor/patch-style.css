@@ -1,0 +1,16 @@
+/*
+ *  usefull css while waiting for the following commit to be merge in next version
+ *  https://github.com/select2/select2/commit/31830c7b32cb3d8e1b12d5b434dee40a6e753ada
+ */
+
+/** TODO: to be removed when upgrading to select2 4.0.1 **/
+ .select2-hidden-accessible {
+      border: 0 !important;
+      clip: rect(0 0 0 0) !important;
+      height: 1px !important;
+      margin: -1px !important;
+      overflow: hidden !important;
+      padding: 0 !important;
+      position: absolute !important;
+      width: 1px !important;
+}

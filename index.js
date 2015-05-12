@@ -9,5 +9,6 @@ module.exports = {
 
         app.import(app.bowerDirectory + '/select2/dist/js/select2.js');
         app.import(app.bowerDirectory + '/select2/dist/css/select2.css');
+        app.import('vendor/patch-style.css');
     }
 };
